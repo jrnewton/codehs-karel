@@ -99,10 +99,11 @@ paintRow();
 
 //------- paint the top of the heart
 
-//paint a 2x3 square?
+//paint a 2x3 squares
 moveToNextRow();
 paintHeartTop3();
 moveToNextRow();
 paintHeartTop3();
 moveToNextRow();
+//paint 1x1 squares
 paintHeartTop1();
